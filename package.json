@@ -1,0 +1,11 @@
+{
+  "name": "voicereco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ohtml":"ohtml index.html --port 3000"
+  },
+  "author": "",
+  "license": "ISC"
+}
